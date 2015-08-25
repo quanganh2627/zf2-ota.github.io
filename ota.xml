@@ -1,0 +1,12 @@
+<OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+
+<Stable>
+<sprout>
+<Filename>Resurrection-Remix-LP-v5.5.4-20150818-sprout</Filename>
+<DownloadUrl>
+http://sourceforge.net/projects/resurrectionremix/files/sprout/Resurrection-Remix-LP-v5.5.4-20150818-sprout.zip/download
+</DownloadUrl>
+</sprout>
+</Stable>
+
+</OTACenter>
